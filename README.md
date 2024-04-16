@@ -13,7 +13,8 @@ See EscapeRoom-CSCE838.pdf for a full description of the project, including it's
 
 ## Authors and Contributions
 Marcus Gubanyi 
- * GIU-Gateway Application: `python/escape_room_app.py`
+ * Project Manager
+ * GUI-Gateway Application: `python/escape_room_app.py`
  * Trigger Azure Function: `cloud/trigger/*`
  * Azure IoT Central configuration: `cloud/iotc/*`
  * Technical Writing: primary author of `EscapeRoom-CSCE838.pdf`
