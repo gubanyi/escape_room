@@ -1,5 +1,8 @@
 # CSCE 838 Escape Room
 
+## Overview
+Software for an IoT Escape room that includes python scripts, Azure cloud configuration (IoT Central), Azure Functions, and Arduino INO programs. The system hardware includes SAMD21 boards and various "enchanted objects" that sense or actuate upon their environment. Example enchanted objects include a rug that senses when someone steps on it or a outlet that turns off/on from a cloud command. The architecture of the system lives in the cloud while the enchanted objects paired with SAMD21 are plug and play. 
+
 ## Instructions to Use
  1. Obtain hardware including 5 SAMD21 boards (https://cdn.sparkfun.com/assets/e/0/6/6/5/SamProRF_Graphical_Datasheet_Updated.pdf)
  2. Download this repository.
