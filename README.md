@@ -22,19 +22,19 @@ Marcus Gubanyi
  * Azure IoT Central configuration: `cloud/iotc/*`
  * Technical Writing: primary author of `EscapeRoom-CSCE838.pdf`
 
-Rehenuma Tasnim Rodoshi 
+Rehenuma
  * Push Button and Bookshelf: `devices/Button_main.ino`
 
-Rezoan Ahmed Nazib 
+Rezoan
  * Light Sensor and Portrait: `devices/Light_main.ino`
 
-Samuel Murray 
+Samuel 
  * Generic Classes (End-Device, Trigger, Activator): `generic_classes/*`
  * Switched Outlet: `devices/OUTLET_main`
  * Step Device: `devices/STEP_main.ino`
  * Technical Writing: author of "Architecture - Message Dictionary" in `EscapeRoom-CSCE838.pdf`, coauthor of "Customer Requirements" and "Engineering Requirements" in `EscapeRoom-CSCE838.pdf`
 
-Sepehr Tabrizchi 
+Sepehr
  * SAMD21 Gateway: `devices/Gateway/Gateway_main.ino`
  * LED Device: `devices/LED200_main/LED200_main.ino`
 ## License
